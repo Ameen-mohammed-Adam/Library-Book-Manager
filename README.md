@@ -1,10 +1,6 @@
-# Library-Book-Manager
-Simple and minimal Library Book Manager desktop app built with Python and Tkinter, featuring 5 windows: Home, Add Book, Search, Borrow/Return, and Reports.
+# Library Book Manager
 
-
-# ShelfFive
-
-Simple and minimal Python GUI app for managing library books.
+Simple and minimal Python GUI app for managing library books, built with Tkinter and featuring 5 main windows: Home, Add Book, Search, Borrow/Return, and Reports.
 
 ## Project Idea
 - App topic: Library Book Manager
@@ -20,11 +16,11 @@ Simple and minimal Python GUI app for managing library books.
 
 ## Run
 ```bash
-cd /home/mohammed-nasser/Moageza/fuck/library-book-manager/src
+cd src
 python app.py
 ```
 
-If `python` is not available on your VM, use `python3`.
+If `python` is not available on your system, use `python3`.
 
 ## Team Split (8 Members)
 Each member creates a branch and works on assigned files.
